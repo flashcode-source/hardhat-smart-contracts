@@ -1,0 +1,9 @@
+
+const NFT_WHITELIST_CONTRACT = "0x7d9C57731A14014a6c98FBEaF26b7B12741c56Ca"
+
+const BASEURI = "";
+
+module.exports = {
+    NFT_WHITELIST_CONTRACT,
+    BASEURI
+}
